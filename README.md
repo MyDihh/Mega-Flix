@@ -26,17 +26,5 @@ Ferramentas que foram usadas no desenvolvimento do projeto:
 
 ---
 
-## 👨‍💻 Autor
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://jonasmzsouza.github.io/">
-         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61324433?v=4" width="100px;" alt=""/>
-         <br />
-         <sub><b>Jonas Souza</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
  
