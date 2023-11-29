@@ -1,19 +1,4 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonasmzsouza/filmov?style=flat-square&color=c4004f">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasmzsouza/filmov?style=flat-square">
-  
-  
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonasmzsouza/filmov?style=flat-square">
-  </a>
-</p>
-
-<h1 align="center">
-    
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> |
- <a href="#-tecnologias">Tecnologias</a> | 
- <a href="#-autor">Autor</a> 
 </p>
 
 ## 💻 Sobre o projeto
