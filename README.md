@@ -3,15 +3,13 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasmzsouza/filmov?style=flat-square">
   
-  <a href="https://github.com/jonasmzsouza/filmov/commits/master">
+  
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonasmzsouza/filmov?style=flat-square">
   </a>
 </p>
 
 <h1 align="center">
-    <img alt="Filmov" title="#Filmov" src="https://raw.githubusercontent.com/jonasmzsouza/filmov/master/image/filmov.png" />
-</h1>
-
+    
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> |
  <a href="#-tecnologias">Tecnologias</a> | 
@@ -20,7 +18,6 @@
 
 ## 💻 Sobre o projeto
 
-Filmov - É um modelo de Site de Filmes e Séries desenvolvido utilizando apenas HTML5/CSS3 para a primeira avaliação da disciplina Responsive Web Development da graduação de Tecnologia em Análise e Desenvolvimento de Sistema na FIAP (Faculdade de Informática e Administração Paulista).
 
 <sub><b>— Data de Desenvolvimento: 04/05/2020<b></sub> 
 
@@ -30,7 +27,7 @@ Filmov - É um modelo de Site de Filmes e Séries desenvolvido utilizando apenas
 
 Ferramentas que foram usadas no desenvolvimento do projeto:
 
-#### [](https://github.com/jonasmzsouza/filmov#utilit%C3%A1rios)**Utilitários**
+
 
 -   Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Markdown: **[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
@@ -58,4 +55,3 @@ Ferramentas que foram usadas no desenvolvimento do projeto:
   </tr>
 </table>
  
-[![Linkedin Badge](https://img.shields.io/badge/-jonasmzsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasmzsouza/)](https://www.linkedin.com/in/jonasmzsouza/) [![Gmail Badge](https://img.shields.io/badge/-jonasmzsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasmzsouza@gmail.com)](mailto:jonasmzsouza@gmail.com)
